@@ -95,7 +95,7 @@ class Project extends Component {
                     </Index3>
                     <div className="con">
                         <div className="con-tooltip bottom">
-                            <h1><B href="">Computer Graphic Project</B></h1>
+                            <h1><A href="https://github.com/kristyyang/Computer_Graphic_Project">Computer Graphic Project</A></h1>
                             <div className="tooltip">
                                 <p>Source code</p>
                             </div>
@@ -114,7 +114,7 @@ class Project extends Component {
                     </Index4>
                     <div className="con">
                         <div className="con-tooltip bottom">
-                            <h1><B href="">Real Estate Website</B></h1>
+                            <h1><A href="https://github.com/kristyyang/SQL-Project">Real Estate Website</A></h1>
                             <div className="tooltip">
                                 <p>source code</p>
                             </div>

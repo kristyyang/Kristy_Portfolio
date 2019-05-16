@@ -8,6 +8,7 @@ import {
 } from './Home.style';
 import './Scroll/scroll_button.css';
 import './Scroll/scroll_button.js';
+import Media from 'react-media';
 
 
 
@@ -44,7 +45,7 @@ export default class Home extends Component {
                                 {({ isInView }) =>
                                     <div className="photobox">
                                         <Flash1 hide={!isInView}>
-                                            <a href="https://www.w3schools.com">
+                                            <a href="https://github.com/kristyyang/bc-game-jam-2019">
                                                 <img
                                                     src={require('../../asserts/gamejam.jpg')}
                                                     alt="dark_s"
@@ -66,7 +67,7 @@ export default class Home extends Component {
                                 {({ isInView }) =>
                                     <div className="photobox">
                                         <Flash1 hide={!isInView}>
-                                            <a href="https://www.w3schools.com">
+                                            <a href="">
                                                 <img
                                                     src={require('../../asserts/save_on_food.png')}
                                                     alt="dark_s" />
@@ -86,7 +87,7 @@ export default class Home extends Component {
                                 {({ isInView }) =>
                                     <div className="photobox">
                                         <Flash1 hide={!isInView}>
-                                            <a href="https://www.w3schools.com">
+                                            <a href="https://github.com/kristyyang/SQL-Project">
                                                 <img
                                                     src={require('../../asserts/304_small.png')}
                                                     alt="dark_s" />
@@ -102,7 +103,7 @@ export default class Home extends Component {
                                 {({ isInView }) =>
                                     <div className="photobox">
                                         <Flash1 hide={!isInView}>
-                                            <a href="https://www.w3schools.com">
+                                            <a href="https://github.com/kristyyang/Foodist">
                                                 <img
                                                     src={require('../../asserts/304.1.png')}
                                                     alt="dark_s" />
