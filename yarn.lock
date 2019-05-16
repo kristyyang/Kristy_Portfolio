@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@algobot76/react-zoomy@^1.2.0":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@algobot76/react-zoomy/-/react-zoomy-1.2.1.tgz#07e8c16d8d6babc7ab893def00d5062f52202ec2"
+  dependencies:
+    css-to-matrix "^1.0.0"
+
 "@babel/runtime@^7.0.0":
   version "7.3.4"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.3.4.tgz#73d12ba819e365fcf7fd152aed56d6df97d21c83"
@@ -6106,12 +6112,6 @@ react-waypoint@^8.0.1:
   dependencies:
     consolidated-events "^1.1.0"
     prop-types "^15.0.0"
-
-react-zoomy@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/react-zoomy/-/react-zoomy-1.1.1.tgz#5482739887a7a53272ef5914f0678f5120de85df"
-  dependencies:
-    css-to-matrix "^1.0.0"
 
 react@^16.8.5:
   version "16.8.5"

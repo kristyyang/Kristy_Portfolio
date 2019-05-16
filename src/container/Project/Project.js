@@ -4,7 +4,7 @@ import {
     Relative,
     Flix,
 } from '../../theme/grid';
-import Zoomy from 'react-zoomy';
+import Zoomy from '@algobot76/react-zoomy';
 import {
     ImageButton,
     Index,
